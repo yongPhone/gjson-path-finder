@@ -8,7 +8,7 @@
 
 如果发现 bug，请：
 
-1. 检查 [Issues](https://github.com/your-username/gjson-path-finder/issues) 确保该问题尚未被报告
+1. 检查 [Issues](https://github.com/yongPhone/gjson-path-finder/issues) 确保该问题尚未被报告
 2. 创建新的 Issue，包含：
    - 清晰的标题和描述
    - 复现步骤
@@ -20,7 +20,7 @@
 
 对于新功能建议：
 
-1. 在 [Discussions](https://github.com/your-username/gjson-path-finder/discussions) 中讨论想法
+1. 在 [Discussions](https://github.com/yongPhone/gjson-path-finder/discussions) 中讨论想法
 2. 如获得正面反馈，创建详细的 Feature Request Issue
 
 ### 代码贡献
@@ -30,7 +30,7 @@
 1. Fork 仓库
 2. 克隆到本地：
    ```bash
-   git clone https://github.com/your-username/gjson-path-finder.git
+   git clone https://github.com/yongPhone/gjson-path-finder.git
    cd gjson-path-finder
    ```
 3. 安装依赖：

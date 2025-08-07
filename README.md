@@ -1,6 +1,6 @@
 # 🔗 GJSON Path Finder
 
-[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https://github.com/your-username/gjson-path-finder)
+[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https://github.com/yongPhone/gjson-path-finder)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 一个交互式的 GJSON 路径生成工具，让你通过点击 JSON 数据来轻松生成对应的 GJSON 路径表达式。
@@ -27,7 +27,7 @@
 
 1. 克隆仓库：
    ```bash
-   git clone https://github.com/your-username/gjson-path-finder.git
+   git clone https://github.com/yongPhone/gjson-path-finder.git
    cd gjson-path-finder
    ```
 
@@ -92,8 +92,8 @@
 ## 📞 联系方式
 
 如有问题或建议，欢迎：
-- 提交 [Issue](https://github.com/your-username/gjson-path-finder/issues)
-- 发起 [Discussion](https://github.com/your-username/gjson-path-finder/discussions)
+- 提交 [Issue](https://github.com/yongPhone/gjson-path-finder/issues)
+- 发起 [Discussion](https://github.com/yongPhone/gjson-path-finder/discussions)
 
 ---
 
