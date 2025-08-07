@@ -54,7 +54,7 @@ const App: React.FC = () => {
             </svg>
             <div className="flex-1">
               <h1 className="text-xl font-bold">GJSON Path Finder</h1>
-              <p className="text-sm text-blue-100">点击 JSON 树中的任意节点，自动生成对应的 GJSON 路径表达式</p>
+              <p className="text-sm text-blue-100">Click any key or value in the JSON tree to generate GJSON paths</p>
             </div>
             <a 
               href="https://github.com/tidwall/gjson" 
@@ -70,8 +70,9 @@ const App: React.FC = () => {
           </div>
           <div className="text-sm text-blue-100 bg-white/10 rounded-lg p-3">
             <p>
-              本工具为 <a href="https://github.com/tidwall/gjson" target="_blank" rel="noopener noreferrer" className="text-white font-medium underline hover:text-blue-200">GJSON</a> 设计，
-              GJSON 是一个快速的 Go JSON 解析库，支持点语法路径查询。使用本工具可以轻松生成各种 GJSON 路径表达式，包括直接路径、通配符路径和查询路径。
+              This tool is designed for <a href="https://github.com/tidwall/gjson" target="_blank" rel="noopener noreferrer" className="text-white font-medium underline hover:text-blue-200">GJSON</a>, 
+              a fast Go JSON parsing library that supports dot syntax path queries. Use this tool to easily generate various GJSON path expressions, 
+              including direct paths, wildcard paths, and query paths.
             </p>
           </div>
         </div>
