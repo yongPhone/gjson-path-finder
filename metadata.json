@@ -1,0 +1,5 @@
+{
+  "name": "GJSON Path Finder",
+  "description": "An interactive tool to generate all possible GJSON paths for any node in a given JSON object. Paste your JSON, click on a key or value, and see the corresponding GJSON paths.",
+  "requestFramePermissions": []
+}
